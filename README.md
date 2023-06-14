@@ -1,5 +1,5 @@
 # Music_Player
-# Autori:
-## Rihards Plinta
-## Oskars Skudra
-## gruppa: DP2-2
+## Autori
+- Rhards Plinta
+- Oskars Skudra
+## grupa: DP2-2
